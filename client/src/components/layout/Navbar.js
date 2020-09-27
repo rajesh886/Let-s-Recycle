@@ -69,7 +69,7 @@ Navbar.propTypes = {
 };
 
 Navbar.defaultProps = {
-  title: 'Recyclem',
+  title: 'Let\'s Recycle',
 };
 
 export default Navbar;
